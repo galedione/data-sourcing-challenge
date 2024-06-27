@@ -1,0 +1,4 @@
+nyt_api_key="J3d8BXl99r5Tf5Ale4hUs3StclJaovBl"
+tmdb_api_key= "ed71188dc832943fc174d81fa79d5290"
+NYT_API_KEY="J3d8BXl99r5Tf5Ale4hUs3StclJaovBl"
+TMDB_API_KEY= "ed71188dc832943fc174d81fa79d5290"
